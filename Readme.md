@@ -1,8 +1,8 @@
-## This is a markdown file
+## This is a readme file
 
-#This Jupyter notebook is submitted by Anir Chakraborty, Peter Groglio, and Harrison Buzzi on Dec-04-2018 as the final project in partial fulfillment of the requirements for BA 505, Python for Analytics at the Dolan School of Business at Fairfield University. 
+This Jupyter notebook is submitted by Anir Chakraborty, Peter Groglio, and Harrison Buzzi on Dec-04-2018 as the final project in partial fulfillment of the requirements for BA 505, Python for Analytics at the Dolan School of Business at Fairfield University.
 
-The project objectives are threefold, as outlined in the course agenda: Apply Python skills to a student-selected analytical project of moderate (but nontrivial) scope and complexity, demonstrate mastery of Python, NumPy, Pandas, Matplolib, Jupyter, GitHub and finally to work in teams, with professional-quality tools and standards. 
+The project objectives are threefold, as outlined in the course agenda: Apply Python skills to a student-selected analytical project of moderate (but nontrivial) scope and complexity, demonstrate mastery of Python, NumPy, Pandas, Matplolib, Jupyter, GitHub and finally to work in teams, with professional-quality tools and standards.
 
 The dataset has been sourced from data.gov, and contains traffic violation information from all electronic traffic violations issued in the Montgomery County of Maryland from 2012 through mid 2018. Any information that can be used to uniquely identify the vehicle, the vehicle owner or the officer issuing the violation is not published. This dataset is intended for public access and use.
 
